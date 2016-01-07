@@ -1,4 +1,4 @@
-# Mapache for [Ghost](https://github.com/tryghost/ghost/) by GodoFredo
+# Raccon for [Ghost](https://github.com/tryghost/ghost/) by Jemandez based in a GodoFredo Theme
 [![Ghost version](https://img.shields.io/badge/Ghost-0.7.x-brightgreen.svg?style=flat-square)](https://ghost.org/)
 [![Node version](https://img.shields.io/node/v/uno-zen.svg?style=flat-square)](https://nodejs.org/en/)
 [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=34RN7RHX6VLW4)
@@ -7,7 +7,7 @@
 
 ### Free theme for Ghost
 
-Hello, I created this theme Ghost to see how it works. It is available for free so you can use on your site. It is strictly forbidden commercial use. If you have any suggestions to improve the theme,  you can send me tweet to [@GodoFredoNinja](https://twitter.com/GodoFredoNinja)
+Hello, I modify this theme Ghost for my personal use based on the [@GodoFredoNinja](https://twitter.com/GodoFredoNinja)'s theme. If you have any suggestions to improve the theme,  you can send me tweet to @jemandez
 
 ![](https://farm2.staticflickr.com/1491/24112345811_b7ab804a41_b.jpg)
 
@@ -23,8 +23,6 @@ You can see a demo in my [blog](https://godofredo.ninja/blog).
 - YouTube, Vimeo, kickstarter -> Video Responsive
 - Code syntax [Prismjs](http://prismjs.com/download.html?themes=prism-okaidia&languages=markup+css+clike+javascript+handlebars+jade+java+php+python+jsx+ruby+sas+stylus+swift)
 - Sharing Buttons
-- Facebook Comments -> the default language is English, Language options are at [Adjust Language](https://developers.facebook.com/docs/plugins/comments#language) and [Facebook Locales XML file](https://www.facebook.com/translations/FacebookLocales.xml)
-
 
 ### Replace icon
 Replace icon with these measures `155px * 155px`
@@ -72,4 +70,4 @@ Replace icon with these measures `155px * 155px`
 
 ## Copyright & License
 
-Copyright (c) 2016 GodoFredo - Released under the [MIT license](LICENSE).
+Copyright (c) 2016 Jesus Hernandez - Released under the [MIT license](LICENSE).
