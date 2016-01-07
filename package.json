@@ -1,20 +1,20 @@
 {
-  "name": "Mapache-GodoFredo",
-  "version": "2.0.0",
-  "description": "Mapache theme ghost by GodoFredoNinja",
+  "name": "Raccon",
+  "version": "0.1",
+  "description": "Raccon theme ghost by jemandez",
   "bugs": {
     "url": "",
-    "email": "hello@godofredo.ninja"
+    "email": "jeman.400@gmail.com"
   },
   "license": "MIT",
   "author": {
-    "name": "GodoFredo",
-    "email": "hello@godofredo.ninja",
-    "url": "https://godofredo.ninja"
+    "name": "Jesus M. Hernandez",
+    "email": "jeman.400@gmail.com",
+    "url": "https://jemandez.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/Mapache"
+    "url": "https://github.com/jemandez/Raccon"
   },
   "dependencies": {},
   "devDependencies": {}
