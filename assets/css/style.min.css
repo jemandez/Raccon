@@ -219,7 +219,7 @@ h1 {
 h2 {
 	font:300 26px/34px Merriweather Sans, sans-serif}
 h3 {
-	font:400 20px/32px Merriweather Sans, sans-serif;
+	font:400 22px/32px Merriweather Sans, sans-serif;
 	margin:32px 0 16px}
 h4 {
 	font:400 18px/32px Merriweather Sans, sans-serif;
@@ -283,7 +283,7 @@ code, kbd, samp {
 	margin-bottom:20px;
 	padding:1em}
 .full-site-width {
-	margin:0 auto;
+	margin: 80px auto 0 auto;
 	max-width:1280px}
 .show-on-medium-screen, .show-on-small-screen {
 	display:none}
@@ -1145,13 +1145,23 @@ code, kbd, samp {
 	-ms-flex-wrap:wrap;
 	flex-wrap:wrap}
 .post h1 {
-	color:#757575;
-	font-weight:500}
+	color:#333;
+	font-weight:700}
 .post h2 {
 	border-bottom:1px solid #ebebeb;
 	padding-bottom:3px}
 .post-img {
-	margin-top:0!important}
+	width: 100%;
+	min-height: 300px;
+	margin-top: 3rem;
+	margin-bottom: -70px;
+	background: no-repeat center center;
+	background-size: cover;
+	overflow: hidden;
+	-webkit-box-shadow: inset 0px 120px 92px -35px rgba(0,0,0,0.5);
+	-moz-box-shadow: inset 0px 120px 92px -35px rgba(0,0,0,0.5);
+	box-shadow: inset 0px 120px 92px -35px rgba(0,0,0,0.5);
+}
 .post-title {
 	margin-top:0}
 .post-main {
