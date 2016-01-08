@@ -646,13 +646,14 @@ code, kbd, samp {
 	align-items:center}
 .header-logo {
 	padding-right:24px;
-	padding-left:12px}
+	padding-left:12px;
+	margin-bottom: 12px;}
 .header-logo span {
 	color:#fff;
 	font-size:20px;
 	font-weight:500}
 .header-logo img {
-	max-height:35px;
+	max-height:65px;
 	position:relative}
 .header .search-open {
 	position:absolute;
@@ -709,6 +710,28 @@ code, kbd, samp {
 	border:1px solid #DDD;
 	border-radius:2px;
 	margin:7px 1px}
+
+.header-socialList ul {
+	margin:0;
+	min-height:100px;
+	padding:25px}
+.header-socialList ul li {
+	height:98px;
+	display: inline;
+	padding:1px;
+	vertical-align:top;
+	width:86px}
+.header-socialList ul li a {
+	display:inline;
+	position:relative;
+	margin:8px 2px;
+	color:#212121;
+	font-size:30px}
+.header-socialList ul li a:hover {
+	border:1px solid #DDD;
+	border-radius:2px;
+	margin:7px 1px}
+
 .header-socialPanel .social-img {
 	display:inline-block;
 	height:64px;
@@ -850,13 +873,12 @@ code, kbd, samp {
 }
 .godo-cover {
 	background:#4285f4;
-	color:#fff;
+	color:#333;
 	letter-spacing:.2px;
 	min-height:350px;
 	margin-bottom:2em;
 	padding-top:56px;
 	position:relative;
-	text-shadow:0 0 10px rgba(0, 0, 0, .33);
 	z-index:2}
 .godo-cover.cover {
 	background-position:center;
@@ -868,7 +890,7 @@ code, kbd, samp {
 	-ms-transition:background 1s;
 	transition:background 1s}
 .godo-cover.cover:before {
-	background:rgba(0, 0, 0, .34);
+	background:rgba(0, 150, 136, 0.75);
 	content:'';
 	height:100%;
 	left:0;
