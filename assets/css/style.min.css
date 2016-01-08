@@ -1277,7 +1277,7 @@ code, kbd, samp {
 	background-position:center;
 	border-radius:2px;
 	box-shadow:0 0 2px 0 rgba(0, 0, 0, .12), 0 2px 2px 0 rgba(0, 0, 0, .24);
-	height:260px;
+	height:160px;
 	width:100%}
 .prev-next-link.no-cover:after {
 	background:#4285f4!important}
