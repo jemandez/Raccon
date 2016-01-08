@@ -653,8 +653,12 @@ code, kbd, samp {
 	font-size:20px;
 	font-weight:500}
 .header-logo img {
-	max-height:65px;
+	max-height:90px;
 	position:relative}
+.header-logo-description img {
+	max-height:40px;
+	padding-left: 10px;
+}
 .header .search-open {
 	position:absolute;
 	top:10px;
@@ -1067,10 +1071,10 @@ code, kbd, samp {
 	color:#fff;
 	opacity:.9}
 .footer-wrap {
-	padding:10px 16px;
+	padding:5px 16px;
 	color:#A2AAAD}
 .footer-wrap .by, .footer-wrap .copy {
-	margin:10px 0}
+	margin:3px 0}
 .footer-wrap .by span, .footer-wrap .copy span {
 	display:inline-block;
 	line-height:1;
