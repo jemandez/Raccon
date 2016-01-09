@@ -1,10 +1,12 @@
 {{!-- Add Layout --}}
 {{!< default}}
 {{#post}}
+  {{!-- Progress bar --}}
+  <progress value="0" id="progress" class="progress"></progress>
 
-{{#if image}}
-<section class="post-img {{#if image}}" style="background-image: url({{image}}){{else}}no-cover{{/if}}"></section>
-{{/if}}
+  {{#if image}}
+  <section class="post-img {{#if image}}" style="background-image: url({{image}}){{else}}no-cover{{/if}}"></section>
+  {{/if}}
   <section class="main-wrap full-site-width">
     <div class="main-post">
       {{!-- Post Content --}}
