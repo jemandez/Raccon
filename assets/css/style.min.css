@@ -188,7 +188,8 @@ table {
 body {
 	color:#212121;
 	background:#EEE;
-	font:400 16px/24px Merriweather Sans, sans-serif;
+	font:400 16px/24px Open Sans, sans-serif;
+	line-height: 1.75em;
 	-moz-text-size-adjust:100%}
 blockquote {
 	position:relative;
@@ -215,20 +216,20 @@ h1, h2, h3, h4, h5, h6 {
 	overflow:hidden;
 	text-overflow:ellipsis}
 h1 {
-	font:300 34px/40px Merriweather Sans, sans-serif}
+	font:300 34px/40px Open Sans, sans-serif}
 h2 {
-	font:300 26px/34px Merriweather Sans, sans-serif}
+	font:300 26px/34px Open Sans, sans-serif}
 h3 {
-	font:400 22px/32px Merriweather Sans, sans-serif;
+	font:400 22px/32px Open Sans, sans-serif;
 	margin:32px 0 16px}
 h4 {
-	font:400 18px/32px Merriweather Sans, sans-serif;
+	font:400 18px/32px Open Sans, sans-serif;
 	margin:32px 0 16px}
 h5 {
-	font:700 16px/24px Merriweather Sans, sans-serif;
+	font:700 16px/24px Open Sans, sans-serif;
 	margin:32px 0 16px}
 h6 {
-	font:400 16px/24px Merriweather Sans, sans-serif;
+	font:400 16px/24px Open Sans, sans-serif;
 	margin:32px 0 16px}
 img:not([src]) {
 	visibility:hidden}
@@ -1020,7 +1021,7 @@ code, kbd, samp {
 	.ps, .ps .ps-inner {
 	padding-top:0}
 .ps .ps-title h2 {
-	font:400 26px/34px Merriweather Sans, sans-serif}
+	font:400 26px/34px Open Sans, sans-serif}
 .ps .featured:before {
 	display:block}
 .ps .timestamp {
@@ -1126,7 +1127,7 @@ code, kbd, samp {
 	border:0!important;
 	color:#fff;
 	cursor:pointer;
-	font:400 14px/20px Merriweather Sans, sans-serif;
+	font:400 14px/20px Open Sans, sans-serif;
 	height:36px;
 	letter-spacing:.5px;
 	line-height:36px;
