@@ -1115,6 +1115,9 @@ code, kbd, samp {
 	-ms-flex:1 0 auto;
 	flex:1 0 auto}
 }
+.footer-wrap .by .icon-favorite{
+	color: rgb(230, 54, 54)
+}
 .btn, .btn i {
 	display:inline-block;
 	vertical-align:middle}
