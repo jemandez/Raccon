@@ -384,6 +384,8 @@ code, kbd, samp {
 	background:#3b5998!important}
 .bg-facebook:hover {
 	background:#4c70ba!important}
+.c-social{
+	color: #fff;}
 .c-facebook {
 	color:#3b5998}
 .bg-twitter {
@@ -877,13 +879,20 @@ code, kbd, samp {
 }
 .godo-cover {
 	background:#4285f4;
-	color:#333;
+	color:#fff;
+	text-shadow: 2px 2px 1px #212;
 	letter-spacing:.2px;
 	min-height:350px;
 	margin-bottom:2em;
 	padding-top:56px;
 	position:relative;
 	z-index:2}
+.godo-cover p{
+	font-weight: 500;
+	text-shadow: none;
+	font-style: italic;
+  font-size: 22px;
+}
 .godo-cover.cover {
 	background-position:center;
 	-webkit-background-size:cover;
@@ -894,7 +903,7 @@ code, kbd, samp {
 	-ms-transition:background 1s;
 	transition:background 1s}
 .godo-cover.cover:before {
-	background:rgba(0, 150, 136, 0.75);
+	background:rgba(0, 150, 136, 0.7);
 	content:'';
 	height:100%;
 	left:0;
